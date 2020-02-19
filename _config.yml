@@ -1,2 +1,4 @@
 name: Adrian Moore, programmer
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
